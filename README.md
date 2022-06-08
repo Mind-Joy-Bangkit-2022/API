@@ -1,5 +1,5 @@
 # API-Documentation
-## Deploy Backend Login/Regist & Quiz
+### Deploy Backend Login/Regist & Quiz
 URL : https://fabled-variety-351411.dt.r.appspot.com
 <br />
 end point : 
@@ -9,8 +9,8 @@ parameter (username,name,password)
 * /quiz (gender,age,feeling,sadness,low_time,activities,capabilities,supported,<br /> frequently,kondisi,abuse,time_spend,appointment,self_feel,
 comfortable)
 <br />
-## Deploy Machine Learning Model
-<br />
+### Deploy Machine Learning Model
+
 URL Deploy Image:
 https://getprediction-avpq3ri45q-as.a.run.app
 <br />
