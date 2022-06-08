@@ -25,10 +25,10 @@ https://getresultquiz-avpq3ri45q-as.a.run.app
 1. Prepare model and make a Dockerfile.
 2. Deploying the model using this code:
 
-*Deploying Image Model
+* Deploying Image Model
 1. gcloud builds submit --tag gcr.io/fabled-variety-351411/emotionreq
 2. gcloud run deploy --image gcr.io/fabled-variety-351411/emotionreq --platform managed
 
-*Deploying Quiz Model
+* Deploying Quiz Model
 1. gcloud builds submit --tag gcr.io/fabled-variety-351411/mentalhealthreq
 2. gcloud run deploy  gcr.io/fabled-variety-351411/mentalhealthreq --image platform managed
