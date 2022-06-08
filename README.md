@@ -12,6 +12,7 @@ comfortable)
 1. Make a database for registration and quiz data in Cloud SQL.
 2. Connecting API in Visual Code Studio to CLoud SQL, we use IP address, databases name, and the same password in Cloud SQL.
 3. Connecting APP Engine to Cloud SQL.
+<br />
 **-----------------------------------------------------------------------------------------------------------------------------**
 ### Deploy Machine Learning Model
 
