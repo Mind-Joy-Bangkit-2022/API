@@ -8,7 +8,7 @@ parameter (username,name,password)
 * /login (username,password)
 * /quiz (gender,age,feeling,sadness,low_time,activities,capabilities,supported,<br /> frequently,kondisi,abuse,time_spend,appointment,self_feel,
 comfortable)
-<br />
+
 ### Deploy Machine Learning Model
 
 URL Deploy Image:
