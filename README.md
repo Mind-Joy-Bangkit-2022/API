@@ -22,8 +22,10 @@ URL Deploy Quiz:
 https://getresultquiz-avpq3ri45q-as.a.run.app
 <br />
 #### We use Cloud Run and Cloud SDK for deploying Machine Learning Model. Here is the following workflow:
-1. Prepare model and make a Dockerfile.
-2. Deploying the model using this code:
+1. Prepare model.
+2. Download and install Google Cloud SDK
+3. Make a Dockerfile.
+4. Deploying the model using this code:
 
 * Deploying Image Model
 1. gcloud builds submit --tag gcr.io/fabled-variety-351411/emotionreq
