@@ -1,6 +1,7 @@
 ### LANDING PAGE DOCUMENTATION
 This is a documentation for our Landing Page. There are Home page to describe about our app, screenshots of our app features, pictures of our team members, our hope for this app, and the footer session for our Linkedin and Github repository.
 </br>
+</br>
 ![home Page - ](https://user-images.githubusercontent.com/79590008/173270381-7626f3f6-dae2-4994-90bd-da9857045e39.png)
 ![ss fitur 1](https://user-images.githubusercontent.com/79590008/173270514-6f553b50-1c29-4fdd-ab3a-cfa116b85541.png)
 ![ss fitur 2](https://user-images.githubusercontent.com/79590008/173270555-522da21d-ed5f-4ef9-a0d0-a9cdf895f55e.png)
